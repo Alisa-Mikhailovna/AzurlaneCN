@@ -1,4 +1,3 @@
-# Build
 This repo template will allow you to build Perseus using Github Actions. This will helps people who don't want to setup build environments on their machines.
 
 ## Azur Lane regions
